@@ -1,4 +1,5 @@
-![dash_page-0001](https://github.com/user-attachments/assets/d34a94f3-e49c-47d8-b40f-42d6d5fd1c0a)
+![dash_page-0001](https://github.com/user-attachments/assets/a874718b-a82b-42d7-aa76-ca913e37544d)
+
 
 # Admin Dashboard (React & Vite)
 
